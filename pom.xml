@@ -30,7 +30,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>Scientific_Calculator</mainClass>
+                            <mainClass>Calculator</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
