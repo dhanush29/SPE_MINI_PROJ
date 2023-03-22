@@ -1,5 +1,4 @@
 import org.junit.*;
-
 import static org.junit.Assert.*;
 public class CalculatorTest {
     private static final double DELTA = 1e-15;
